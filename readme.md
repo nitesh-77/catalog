@@ -18,13 +18,12 @@ project-directory/
 
 ## Setup Instructions
 
-1. Create a new directory for your project:
+1. Clone the repository to your local machine:
    ```bash
-   mkdir shamir-secret
+   git clone https://github.com/yourusername/shamir-secret.git
    cd shamir-secret
    ```
 
-2. Create a new file named `solution.js` and copy the provided code into it.
 
 ## Running the Code
 
